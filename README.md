@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Futuro dev back-end ⚡<br><br>-MySQL 🌊<br><br>-Banco de dados 💻<br><br>-Estudando JavaScript com foco no back-end 🎈<br><br>-"Transformando café em código." ☕</p>
+<p align="left">-Futuro dev back-end ⚡<br><br>-MySQL 🌊<br><br>-Banco de dados 💻<br><br>-Dev full Stack 🎈<br><br>-"Transformando café em código." ☕</p>
 
 ###
 
