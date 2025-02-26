@@ -1,5 +1,10 @@
 <h2 align="left">About Me</h2>
 
+<p align="left"> Hello, world. My name is Filipe. I am studying systems analysis and development (1/5). I graduate in 2027.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
 ###
 
 <p align="left">-Futuro dev full stack ⚡<br><br>-MySQL 🌊<br><br>-Banco de dados 💻<br><br>-Dev full Stack 🎈<br><br>-"Transformando café em código." ☕</p>
