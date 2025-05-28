@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">-Futuro dev full stack ⚡<br><br>-MySQL 🌊<br><br>-Banco de dados 💻<br><br>-Dev full Stack 🎈<br><br>-"Transformando café em código." ☕</p>
+<p align="left">-Cibersegurança ⚡<br><br>-MySQL 🌊<br><br>-Banco de dados 💻 🎈<br><br>-"Transformando café em código." ☕</p>
 
 ###
 
