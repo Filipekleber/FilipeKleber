@@ -1,13 +1,13 @@
 <h2 align="left">About Me</h2>
 
-<p align="left"> Hello, world. My name is Filipe. I am studying systems analysis and development (1/5). I graduate in 2027.
+<p align="left"> Hello, my name is Filipe. I love the world of programming and I also love the field of Cybersecurity. I study at Alura, and I will do my best to enter the field.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
 ###
 
-<p align="left">-Cibersegurança ⚡<br><br>-MySQL 🌊<br><br>-Banco de dados 💻 🎈<br><br>-"Transformando café em código." ☕</p>
+<p align="left">-AWS 🎈<br><br>-Cibersegurança ⚡<br><br>-MySQL 🌊<br><br>-Banco de dados 💻 <br><br>-"Transformando café em código." ☕</p>
 
 ###
 
@@ -35,6 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="vscode logo"  />
+          
 </div>
 
 ###
